@@ -1,0 +1,5 @@
+{
+  "name": "YouTube Media Hub",
+  "description": "A modern, sleek dashboard for analyzing YouTube videos and playlists, featuring metadata extraction, quality inspection, and thumbnail downloading capabilities.",
+  "requestFramePermissions": []
+}
